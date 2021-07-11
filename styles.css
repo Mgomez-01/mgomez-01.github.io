@@ -5,6 +5,7 @@ h1 {
 h2 { 
     color:blue;
 }
+
 h3 { 
     color:green;
 }
@@ -19,4 +20,8 @@ h5 {
 
 h6 { 
     color:purple;
+} 
+
+body { 
+    text-align:center;
 }
